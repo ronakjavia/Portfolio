@@ -1,7 +1,3 @@
-import project1 from "../assets/postoblog.JPG";
-import project2 from "../assets/project2.JPG";
-import project3 from "../assets/project3.JPG";
-import project4 from "../assets/project4.jpg";
 import ProjectCard from "../components/UI/ProjectCard";
 export default function ProjectsContent() {
     return (
